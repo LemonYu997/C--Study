@@ -21,3 +21,6 @@ if、for、while、do、break、continue、goto
 
 ## 第七章 函数高级应用
 函数指针、命令行参数、变量种类、递归、内联、重载
+
+## 第八章 预处理指令与宏
+预处理、#define、条件编译
