@@ -24,3 +24,6 @@ if、for、while、do、break、continue、goto
 
 ## 第八章 预处理指令与宏
 预处理、#define、条件编译
+
+## 第九章 自定义数据类型
+结构struct、结构数组、结构函数、嵌套结构、自定义数据类型typedef、枚举enum、联合union
