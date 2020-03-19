@@ -39,3 +39,6 @@ if、for、while、do、break、continue、goto
 
 ## 第十三章 继承与多态
 继承关系public/protected/private、派生类的构造函数与析构函数、多态和虚拟函数
+
+## 第十四章 文件入门和处理
+数据流、文件输入/输出、文本文件操作、二进制文件操作、随机式存取
